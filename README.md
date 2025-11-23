@@ -13,7 +13,7 @@
 1. Клонируйте репозиторий на ваш локальный компьютер:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ukarpenkov/simpleFormBackend
    ```
 
 2. Перейдите в директорию проекта:
